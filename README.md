@@ -1,7 +1,7 @@
 # Characterizing Off-center MRI with ZTE
 
 Because the data size is too big for github, the raw data was uploaded to the following link:
-https://bwsyncandshare.kit.edu/s/TSrtt5EQiifkKPN
+https://bwsyncandshare.kit.edu/
 
 Use the 'load' function in Matlab to load 3D images to the workspace.
 
